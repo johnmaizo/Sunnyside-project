@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://clipboard-landing-page-johnmaizo.netlify.app/">View Demo</a>
+    <a href="https://sunnyside-agency-page-johnmaizo.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -25,8 +25,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Sunnyside agency landing page using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-x65sxK2t1i)
-- Live Site URL: [https://clipboard-landing-page-johnmaizo.netlify.app/](https://clipboard-landing-page-johnmaizo.netlify.app/)
+- Solution URL: [Sunnyside agency landing page using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-using-html-and-sass-5P5TPlcGlN)
+- Live Site URL: [https://sunnyside-agency-page-johnmaizo.netlify.app/](https://sunnyside-agency-page-johnmaizo.netlify.app/)
 
 <br>
 
