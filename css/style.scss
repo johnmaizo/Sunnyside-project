@@ -538,6 +538,11 @@ main {
           position: absolute;
           bottom: 0;
           z-index: -1;
+
+        }
+
+        &:is(:hover, :focus)::before {
+          background-color: #F9D302;
         }
       }
     }
@@ -590,6 +595,10 @@ main {
 
           a::before {
             background-color: #FDD9D1;
+          }
+
+          a:is(:hover, :focus)::before {
+            background-color: #FB7567;
           }
         }
       }
@@ -740,10 +749,6 @@ footer {
       width: 20px;
       height: 20px;
     }
-
-    // a:is(:hover, :focus) img path{
-    //   fill: white !important;
-    // }
 
     a:hover img path {
       fill: white !important;
