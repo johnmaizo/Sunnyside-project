@@ -33,7 +33,7 @@ handleMediaChange(mediaQuery);
 
 mediaQuery.addListener(handleMediaChange); 
 
-const arrow = document.querySelector(".arrow");
+const arrow = document.querySelector(".aroow");
 
 button_nav.addEventListener("click", () => { 
     if (button_nav.getAttribute("aria-expanded") === "false") {
