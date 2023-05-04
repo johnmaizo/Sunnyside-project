@@ -244,6 +244,21 @@ main {
         left: 50%;
         transform: translate(-50%, 0);
         top: 4em;
+
+        transform: translateX(0px);
+        animation: float 3s infinite;
+      }
+
+      @keyframes float {
+        0% {
+          transform: translateY(0px);
+        }
+        50% {
+          transform: translateY(-40px);
+        }
+        100% {
+          transform: translateY(0px);
+        }
       }
 
       .hide a img{
